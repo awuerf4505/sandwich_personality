@@ -56,7 +56,7 @@ function checkIt() {
   var image;
 
   if (max == police) {
-    image ="<img src='img/Police.jpg'>";
+    image ="<img src='img/police.jpg'>";
   }
   else if (max == doctor) {
     image = "<img src='img/doctor.jpg'>";
